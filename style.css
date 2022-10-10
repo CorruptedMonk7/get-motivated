@@ -1,0 +1,15 @@
+body {
+    font-family: 'Silkscreen', cursive;
+    background-color: red;
+}
+
+blockquote {
+    font-size: 50px;
+}
+
+button {
+    padding: 20px;
+    border-radius: 15px;
+    background-color: yellow;
+    font-size: 20px;
+}
